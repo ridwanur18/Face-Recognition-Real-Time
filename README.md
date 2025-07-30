@@ -18,3 +18,7 @@ This project is a real-time face recognition system that captures input from a l
 - **face_recognition** – for encoding and comparing faces
 - **Firebase Realtime Database** – to store and update user attendance
 - **Firebase Admin SDK** – for secure interaction with the database
+
+## Demo
+[![Watch the demo] (https://youtu.be/OJRqHG--rQI)
+> This video shows the real-time face recognition system identifying faces from webcam input and updating attendance in the Firebase Realtime Database.
